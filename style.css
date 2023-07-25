@@ -39,8 +39,10 @@ div{
 }
 table{
 width: 90%;
-color: #261dcd;
 border-collapse: collapse;
+}
+thead{
+    color: #261dcd;
 }
 td,th{
     padding: 10px;
